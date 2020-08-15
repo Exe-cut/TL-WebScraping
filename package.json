@@ -1,0 +1,12 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Levi Bastos Lima Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "jspdf": "^2.0.0",
+    "puppeteer": "^5.2.1",
+    "xlsx": "^0.16.6"
+  }
+}
